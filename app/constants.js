@@ -83,3 +83,9 @@ export const TOAST_MESSAGE_REMOVED_FROM_WISHLIST = defineMessage({
     id: 'global.info.removed_from_wishlist',
     defaultMessage: 'Item removed from wishlist'
 })
+
+export const CONFIG = {
+    API_KEY: 'blt17b539c5f8b710ac',
+    DELIVERY_TOKEN: 'csd5f69d365b5b9e914af3cefb',
+    ENVIRONMENT: 'development'
+}
